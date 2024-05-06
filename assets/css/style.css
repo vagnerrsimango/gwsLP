@@ -648,9 +648,10 @@ section {
 }
 
 figcaption {
-  background-color: rgba(0, 0, 0, 0.7); /* Dark background */
+  background-color: blue; /* Dark background */
   color: white; /* Text color */
   padding: 10px; /* Padding around the caption */
+  text-align: center;
 }
 
 .value-card {
